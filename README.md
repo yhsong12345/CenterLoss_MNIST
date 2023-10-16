@@ -16,5 +16,5 @@ python train.py
 
 ## Result (Plot)
 
-
+Plots are in the plot folder
 
